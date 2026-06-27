@@ -15,9 +15,9 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 ### 2. Inventory Analytics For PUMA and ADIDAS
 * **Core Goal:** How inventory impacts on financial performance, diagnosing the inventory problems of PUMA and ADIDAS
 * **Tools Used:** Global Competition Positioning System
-* **Deliverables:** [📖 View Live Case Study](./project2-supply-chain-analytics/) | [📄 Download/View Full Project PDF](./inventory_analytics.pdf)
+* **Deliverables:** [📖 View Live Case Study](./inventory-analytics.md) | [📄 Download/View Full Project PDF](./inventory_analytics.pdf)
 
 ### 3. Data Analytics For Red Bull - Sales Account
 * **Core Goal:** To visualize the best and worst performing accounts, observing why certain clients are performing better
 * **Tools Used:** Advanced Excel, Power Point
-* **Deliverables:** [📖 View Live Case Study](./project2-supply-chain-analytics/) | [📄 Download/View Full Project PDF](./red_bull_account_analysis.pdf)
+* **Deliverables:** [📖 View Live Case Study](./red-bull-analysis.md) | [📄 Download/View Full Project PDF](./red_bull_account_analysis.pdf)
