@@ -3,7 +3,7 @@
 [📄 Download Full Project PDF](./quantifying_the_main_impact_of_sc.pdf)
 
 ## 📌 1. The Bottleneck (Problem)
-[Write 2-3 sentences here explaining what was wrong with the supply chain or factory floor before you started.]
+The study of correlation between net income and saving 1% of cost of goods sold
 
 ## 🛠️ 2. Methodology & Tools
 * **Analysis Framework:** Global Competition Positioning System
