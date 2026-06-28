@@ -21,3 +21,24 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 * **Core Goal:** To visualize the best and worst performing accounts, observing why certain clients are performing better
 * **Tools Used:** Advanced Excel, Power Point
 * **Deliverables:** [📖 View Live Case Study](./red-bull-analysis.md) | [📄 Download/View Full Project PDF](./red_bull_account_analysis.pdf)
+
+---
+
+## 🏆 Degree, Professional Certifications & Credentials
+
+| Certification / Course | Issuing Organization | Verification Link |
+| :--- | :--- | :--- |
+
+| **Degree** | Rutgers University | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/1_DE.pdf) |
+
+| **Supply Chain Analytics** | Rutgers University | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/rutger_supply_chain.pdf) |
+
+| **Inventory Analytics** | Rutgers University | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/rutgers_inventory.pdf) |
+
+| **IBM Data Analyst** | IBM (Coursera) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/data_visualization.pdf) |
+
+| **Deloitte** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/deloitte_internship_virtual.pdf) |
+
+| **Red Bull** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/account_analytics_red_bull.pdf) |
+
+| **ABC_Pareto Analysis** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/ABC-Pareto Analysis) |
