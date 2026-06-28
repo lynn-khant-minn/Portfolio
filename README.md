@@ -29,7 +29,7 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 | Certification / Course | Issuing Organization | Verification Link |
 | :--- | :--- | :--- |
 
-| **Degree** | Rutgers University | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/1_DE.pdf) |
+| **Degree** | IU International University Of Applied Sciences(Berlin, Germany) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/1_DE.pdf) |
 
 | **Supply Chain Analytics** | Rutgers University | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/rutger_supply_chain.pdf) |
 
@@ -37,8 +37,8 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 
 | **IBM Data Visualization** | IBM (Coursera) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/data_visualization.pdf) |
 
-| **Deloitte** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/deloitte_internship_virtual.pdf) |
+| **Deloitte** | Forage_Deloitte | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/deloitte_internship_virtual.pdf) |
 
-| **Red Bull** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/account_analytics_red_bull.pdf) |
+| **Red Bull** | Forage_Red Bull | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/account_analytics_red_bull.pdf) |
 
-| **ABC_Pareto Analysis** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/abc_pareto_analysis.xls) |
+| **ABC_Pareto Analysis** | Project | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/abc_pareto_analysis.xls) |
