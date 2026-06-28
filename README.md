@@ -35,10 +35,10 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 
 | **Inventory Analytics** | Rutgers University | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/rutgers_inventory.pdf) |
 
-| **IBM Data Analyst** | IBM (Coursera) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/data_visualization.pdf) |
+| **IBM Data Visualization** | IBM (Coursera) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/data_visualization.pdf) |
 
 | **Deloitte** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/deloitte_internship_virtual.pdf) |
 
 | **Red Bull** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/account_analytics_red_bull.pdf) |
 
-| **ABC_Pareto Analysis** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/ABC-Pareto Analysis) |
+| **ABC_Pareto Analysis** | Udemy | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/abc_pareto_analysis.xls) |
