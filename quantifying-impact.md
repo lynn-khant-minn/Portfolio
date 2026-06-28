@@ -1,6 +1,6 @@
 # Case Study: Quantifying the Main Impact of Supply Chain
 
-[📄 View Full Project PDF](./quantifying_the__impact_of_sc.pdf)
+[📄 View Full Project PDF](./quantifying_the_impact_of_sc.pdf)
 
 ## 📌 1. The Bottleneck (Problem)
 The study of correlation between net income and saving 1% of cost of goods sold
