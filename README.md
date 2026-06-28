@@ -10,7 +10,7 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 ### 1. Quantifying the main impact of supply chain
 * **Core Goal:** How 1% saving of cost of goods sold drive net income and market cap
 * **Tools Used:** Global Competition Positioning System
-* * **Deliverables:** [📖 View Live Case Study](./quantifying-impact.md) | [📄 Download/View Full Project PDF](./quantifying_the_main_impact_of_sc.pdf)
+* * **Deliverables:** [📖 View Live Case Study](./quantifying-impact.md) | [📄 Download/View Full Project PDF](./quantifying_the_impact_of_sc.pdf.pdf)
 
 ### 2. Inventory Analytics For PUMA and ADIDAS
 * **Core Goal:** How inventory impacts on financial performance, diagnosing the inventory problems of PUMA and ADIDAS
