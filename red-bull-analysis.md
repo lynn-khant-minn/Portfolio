@@ -1,6 +1,6 @@
 # Case Study: Data Analytics For Red Bull - Sales Account
 
-[📄 Download Full Project PDF](./red_bull_account_analysis.pdf)
+[📄 View Full Project PDF](./red_bull_account_analysis.pdf)
 
 ## 📌 1. The Bottleneck (Problem)
 [The variance in client accounts and why management needed to see which accounts were underperforming.]
