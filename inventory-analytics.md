@@ -1,6 +1,6 @@
 # Case Study: Inventory Analytics For PUMA and ADIDAS
 
-[📄 Download Full Project PDF](./inventory_analytics.pdf)
+[📄 View Full Project PDF](./inventory_analytics.pdf)
 
 ## 📌 1. The Bottleneck (Problem)
 [The correlation betwen inventory and financial performance, the core inventory imbalances or financial drags PUMA and ADIDAS were facing in this study.]
