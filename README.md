@@ -29,7 +29,9 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 | Certification / Course | Issuing Organization | Verification Link |
 | :--- | :--- | :--- |
 
-| **Degree** | IU International University Of Applied Sciences(Berlin, Germany) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/1_DE.pdf) |
+| **Degree** | IU International University Of Applied Sciences(Berlin, Germany) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/Degree_German.pdf) |
+
+| **Transcript** | IU International University Of Applied Sciences(Berlin, Germany) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/Transcript_German.pdf) |
 
 | **Supply Chain Analytics** | Rutgers University | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/rutger_supply_chain.pdf) |
 
