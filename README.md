@@ -48,4 +48,4 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 
 | **Red Bull** | Forage_Red Bull | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/account_analytics_red_bull.pdf) |
 
-| **Industrial Maintenance Management & AI Integration** | Mr. Factory (Factory Specialist) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/Industrial_Maintenance_AI_Integration.pdf) |
+| **Industrial Maintenance Management & AI Integration** | Mr. Factory (Factory Specialist) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/Industrial_Maintenance_AI_Integration.JPG) |
