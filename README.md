@@ -25,7 +25,7 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 ### 4. Inventory Analysis & Categorization Strategy (ABC & Pareto)
 * **Core Goal:** Classify warehouse inventory using dual 80/20 Pareto principles to isolate high-value carrying costs.
 * **Tools Used:** Advanced Excel (Array Formulas, Data Modeling), Lean Operations Frameworks
-* **Deliverables:** [📖 View Live Case Study](./abc-pareto-analysis.md) | [📄 Download/View Full Project PDF](./inventory_analysis_abc_pareto.pdf)
+* **Deliverables:** [📖 View Live Case Study](./abc-pareto-analysis.xls) | [📄 Download/View Full Project PDF](./inventory_analysis_abc_pareto.pdf)
 
 ---
 
