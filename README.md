@@ -22,6 +22,11 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 * **Tools Used:** Advanced Excel, Power Point
 * **Deliverables:** [📖 View Live Case Study](./red-bull-analysis.md) | [📄 View Full Project PDF](./red_bull_account_analysis.pdf)
 
+### 4. Inventory Analysis & Categorization Strategy (ABC & Pareto)
+* **Core Goal:** Classify warehouse inventory using dual 80/20 Pareto principles to isolate high-value carrying costs.
+* **Tools Used:** Advanced Excel (Array Formulas, Data Modeling), Lean Operations Frameworks
+* **Deliverables:** [📖 View Live Case Study](./abc-pareto-analysis.md) | [📄 Download/View Full Project PDF](./inventory_analysis_abc_pareto.pdf)
+
 ---
 
 ## 🏆 Degree, Professional Certifications & Credentials
@@ -43,4 +48,4 @@ Welcome to my portfolio. I specialize in leveraging data analytics, mathematical
 
 | **Red Bull** | Forage_Red Bull | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/account_analytics_red_bull.pdf) |
 
-| **ABC_Pareto Analysis** | Project | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/abc_pareto_analysis.xls) |
+| **Industrial Maintenance Management & AI Integration** | Mr. Factory (Factory Specialist) | [📄 View Certificate](https://lynn-khant-minn.github.io/Portfolio/certificates/Industrial_Maintenance_AI_Integration.pdf) |
